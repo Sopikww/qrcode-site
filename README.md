@@ -1,4 +1,4 @@
-<h1>Сайт, который превращает ваш текст в Qr-code</h1>
+<h1>Сайт, который создает QR-code из вашего текста.</h1>
 
 https://sopikww.github.io/qrcode-site/
 
